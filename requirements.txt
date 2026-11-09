@@ -1,0 +1,10 @@
+streamlit
+google-genai
+tavily-python
+sentence-transformers
+faiss-cpu
+numpy
+langgraph
+pypdf
+python-docx
+reportlab
