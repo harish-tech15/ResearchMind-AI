@@ -1,0 +1,31 @@
+# API Secrets
+.env
+.streamlit/secrets.toml
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Logs
+*.log
+
+# User uploads
+uploads/*
+!uploads/.gitkeep
+
+# Generated reports
+exports/*
+!exports/.gitkeep
+
+# Virtual environment
+venv/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
